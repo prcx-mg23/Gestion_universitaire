@@ -1,0 +1,6 @@
+#ifndef STATUTENSEIGNANT_H_INCLUDED
+#define STATUTENSEIGNANT_H_INCLUDED
+
+enum class StatutEnseignant { AUTRE, MC_PR };
+
+#endif  // STATUTENSEIGNANT_H_INCLUDED

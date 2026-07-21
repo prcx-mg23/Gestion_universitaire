@@ -1,0 +1,13 @@
+E001;Durand;Paul;Limoges;paul.durand@unilim.fr;MC_PR;INFO
+E002;Martin;Julie;Limoges;julie.martin@unilim.fr;AUTRE;INFO
+E003;Petit;Luc;Limoges;luc.petit@unilim.fr;MC_PR;INFO
+
+E004;Bernard;Alice;Limoges;alice.bernard@unilim.fr;MC_PR;MATH
+E005;Robert;Nicolas;Limoges;nicolas.robert@unilim.fr;AUTRE;MATH
+E006;Moreau;Claire;Limoges;claire.moreau@unilim.fr;MC_PR;MATH
+
+E007;Simon;David;Limoges;david.simon@unilim.fr;MC_PR;PHYS
+E008;Laurent;Emma;Limoges;emma.laurent@unilim.fr;AUTRE;PHYS
+E009;Michel;Hugo;Limoges;hugo.michel@unilim.fr;MC_PR;PHYS
+E010;Garcia;Lea;Limoges;lea.garcia@unilim.fr;AUTRE;PHYS
+

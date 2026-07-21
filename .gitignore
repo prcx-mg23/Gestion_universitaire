@@ -1,0 +1,17 @@
+# Dossiers de build
+bin/
+obj/
+
+# Fichiers objets et exécutables (sécurité)
+*.o
+*.out
+*.exe
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+

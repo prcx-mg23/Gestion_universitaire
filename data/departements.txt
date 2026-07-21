@@ -1,0 +1,3 @@
+INFO;Informatique
+MATH;Mathematiques
+PHYS;Physique

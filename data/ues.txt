@@ -1,0 +1,10 @@
+ALG;Algorithmique;20;20;10;1;2;1;INFO;E001
+POO;Programmation Orientee Objet;20;20;10;1;2;1;INFO;E002
+BDR;Bases de Donnees Relationnelles;20;15;15;1;2;1;INFO;E001
+
+ANA;Analyse;30;20;0;1;2;0;MATH;E004
+ALGEBRE;Algebre Lineaire;25;20;0;1;2;0;MATH;E005
+
+MECA;Mecanique;30;15;15;1;1;1;PHYS;E007
+OPT;Optique;25;15;10;1;1;1;PHYS;E009
+

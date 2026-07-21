@@ -1,0 +1,4 @@
+LINFO;Licence Informatique;INFO
+LMATH;Licence Mathematiques;MATH
+LPHY;Licence Physique;PHYS
+
